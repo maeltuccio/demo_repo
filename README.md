@@ -11,3 +11,8 @@ Pourquoi cela ne marche pas ?
 ## Local development 
 
 1. Open index.html into your browser 
+
+Et ca pour le test on en pense quoi ?? 
+
+Je suis le feature !!! 
+
